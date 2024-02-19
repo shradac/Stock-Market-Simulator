@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user name="Karthik" portfolioType="flexible">
+    <portfolio name="Investments">
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>100.0</quantity>
+            <purchaseDate>2021-01-05</purchaseDate>
+            <purchasePrice>12614.0</purchasePrice>
+            <commission>10.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.6482610845557937</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.20539363690512866</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.7164435290078957</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.23399866955042173</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.8011527377521614</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.23018365367225135</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.7210716539498594</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.21398875030569822</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.8992149911369967</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.28112449799196787</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>2.0155872077398547</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>0.29115835270922846</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>2.194265652428321</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>6.590716505037191</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.857470125688812</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>5.170248910554695</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.8589664146734417</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>5.393327683180523</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>2.00213561131874</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>5.931700703330226</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AAPL</symbol>
+            <name>Apple Inc.</name>
+            <quantity>1.9262874020803902</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>300.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>AMZN</symbol>
+            <name>Amazon.Com</name>
+            <quantity>6.769171260032879</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>700.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>18.373909049150207</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.5000916834753039</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>19.704433497536947</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>400.00000000000006</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.6405329233922623</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>22.09944751381215</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.68190341974565</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>24.024024024024026</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.5532044366995824</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>28.030833917309042</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.6644959797993222</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>29.239766081871345</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.7912853111070082</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>35.93890386343216</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>399.99999999999994</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.8909744290338868</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>26.07561929595828</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>0.6727739591626206</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>25.690430314707772</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>2.106593638087213</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>32.84072249589491</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>2.0847086619644903</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>F</symbol>
+            <name>Ford Motor Company</name>
+            <quantity>30.165912518853695</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>2.625590757920532</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+    </portfolio>
+    <portfolio name="College">
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>120.0</quantity>
+            <purchaseDate>2022-10-08</purchaseDate>
+            <purchasePrice>14130.0</purchasePrice>
+            <commission>10.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>250.0</quantity>
+            <purchaseDate>2022-10-08</purchaseDate>
+            <purchasePrice>55740.0</purchasePrice>
+            <commission>10.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>1.0044026315348946</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>2.940311673037342</quantity>
+            <purchaseDate>2022-01-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>1.4046916701783958</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>2.9946844351276485</quantity>
+            <purchaseDate>2022-01-31</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>1.5788227245217483</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.2294526077829806</quantity>
+            <purchaseDate>2022-03-02</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>1.6065547433528797</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.073376872839032</quantity>
+            <purchaseDate>2022-04-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>3.0081219292088637</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.006614552014432</quantity>
+            <purchaseDate>2022-05-01</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>3.038897893030794</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>2.881014116969173</quantity>
+            <purchaseDate>2022-05-31</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>3.4311202607651397</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>2.833061831574474</quantity>
+            <purchaseDate>2022-06-30</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>2.6524026347199503</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.029385034837928</quantity>
+            <purchaseDate>2022-07-30</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>2.6717727212005165</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.069603253779449</quantity>
+            <purchaseDate>2022-08-29</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>2.4469820554649266</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.258390355164549</quantity>
+            <purchaseDate>2022-09-28</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>2.0289463005545785</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>600.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>2.8878781315428492</quantity>
+            <purchaseDate>2022-10-28</purchaseDate>
+            <purchasePrice>400.0</purchasePrice>
+            <commission>2.0</commission>
+        </stock>
+    </portfolio>
+    <portfolio name="Health">
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>150.0</quantity>
+            <purchaseDate>2022-10-08</purchaseDate>
+            <purchasePrice>17662.5</purchasePrice>
+            <commission>10.0</commission>
+        </stock>
+        <stock>
+            <symbol>TSLA</symbol>
+            <name>Tesla Motors</name>
+            <quantity>185.0</quantity>
+            <purchaseDate>2022-10-08</purchaseDate>
+            <purchasePrice>41247.6</purchasePrice>
+            <commission>10.0</commission>
+        </stock>
+    </portfolio>
+    <transaction>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.6482610845557937</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.20539363690512866</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.7164435290078957</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.23399866955042173</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.8011527377521614</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.23018365367225135</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.7210716539498594</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.21398875030569822</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.8992149911369967</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.28112449799196787</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>2.0155872077398547</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>0.29115835270922846</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>2.194265652428321</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>6.590716505037191</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.857470125688812</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>5.170248910554695</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.8589664146734417</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>5.393327683180523</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>2.00213561131874</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>5.931700703330226</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>1.9262874020803902</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>AMZN</stockSymbol>
+            <stockQuantity>6.769171260032879</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>1.0044026315348946</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.940311673037342</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>1.4046916701783958</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.9946844351276485</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>1.5788227245217483</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.2294526077829806</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>1.6065547433528797</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.073376872839032</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.0081219292088637</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.006614552014432</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.038897893030794</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.881014116969173</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.4311202607651397</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.833061831574474</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>2.6524026347199503</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.029385034837928</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>2.6717727212005165</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.069603253779449</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>2.4469820554649266</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.258390355164549</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>2.0289463005545785</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.8878781315428492</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>18.373909049150207</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.5000916834753039</stockQuantity>
+            <date>2022-01-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>19.704433497536947</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.6405329233922623</stockQuantity>
+            <date>2022-01-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>22.09944751381215</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.68190341974565</stockQuantity>
+            <date>2022-03-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>24.024024024024026</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.5532044366995824</stockQuantity>
+            <date>2022-04-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>28.030833917309042</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.6644959797993222</stockQuantity>
+            <date>2022-05-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>29.239766081871345</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.7912853111070082</stockQuantity>
+            <date>2022-05-31</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>35.93890386343216</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.8909744290338868</stockQuantity>
+            <date>2022-06-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>26.07561929595828</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>0.6727739591626206</stockQuantity>
+            <date>2022-07-30</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>25.690430314707772</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>2.106593638087213</stockQuantity>
+            <date>2022-08-29</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>32.84072249589491</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>2.0847086619644903</stockQuantity>
+            <date>2022-09-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>F</stockSymbol>
+            <stockQuantity>30.165912518853695</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>2.625590757920532</stockQuantity>
+            <date>2022-10-28</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>sell</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>50.0</stockQuantity>
+            <date>2021-02-10</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>150.0</stockQuantity>
+            <date>2021-03-04</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>sell</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>30.0</stockQuantity>
+            <date>2021-04-13</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>50.0</stockQuantity>
+            <date>2021-05-17</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>80.0</stockQuantity>
+            <date>2021-06-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>sell</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>20.0</stockQuantity>
+            <date>2021-07-22</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>30.0</stockQuantity>
+            <date>2021-08-12</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>110.0</stockQuantity>
+            <date>2021-09-07</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>75.0</stockQuantity>
+            <date>2021-10-13</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>sell</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>95.0</stockQuantity>
+            <date>2021-11-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Investments">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>500.0</stockQuantity>
+            <date>2021-12-23</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="College">
+            <type>sell</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>100.0</stockQuantity>
+            <date>2022-11-02</date>
+            <commission>10.0</commission>
+        </portfolio>
+    </transaction>
+    <strategy/>
+</user>

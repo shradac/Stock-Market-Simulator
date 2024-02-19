@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user name="shrada" portfolioType="inflexible">
+    <portfolio name="Education">
+        <stock>
+            <symbol>GOOG</symbol>
+            <name>Google Inc.</name>
+            <quantity>2.0</quantity>
+            <purchaseDate>2022-11-02</purchaseDate>
+            <purchasePrice>174.14</purchasePrice>
+            <commission>0.0</commission>
+        </stock>
+        <stock>
+            <symbol>EOD</symbol>
+            <name>Wells Fargo Global Dividend Opportunity</name>
+            <quantity>20.0</quantity>
+            <purchaseDate>2022-09-17</purchaseDate>
+            <purchasePrice>95.39999999999999</purchasePrice>
+            <commission>0.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>4.0</quantity>
+            <purchaseDate>2021-04-01</purchaseDate>
+            <purchasePrice>532.92</purchasePrice>
+            <commission>0.0</commission>
+        </stock>
+    </portfolio>
+    <portfolio name="Health">
+        <stock>
+            <symbol>GOOG</symbol>
+            <name>Google Inc.</name>
+            <quantity>2.0</quantity>
+            <purchaseDate>2022-11-02</purchaseDate>
+            <purchasePrice>174.14</purchasePrice>
+            <commission>0.0</commission>
+        </stock>
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>4.0</quantity>
+            <purchaseDate>2021-04-01</purchaseDate>
+            <purchasePrice>532.92</purchasePrice>
+            <commission>0.0</commission>
+        </stock>
+    </portfolio>
+</user>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user name="Karthik" portfolioType="flexible">
+    <portfolio name="strategyFutureEnddate">
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>3.263288009888752</quantity>
+            <purchaseDate>2022-03-01</purchaseDate>
+            <purchasePrice>396.0</purchasePrice>
+            <commission>5.0</commission>
+        </stock>
+    </portfolio>
+    <portfolio name="ongoing">
+        <stock>
+            <symbol>NFLX</symbol>
+            <name>Netflix</name>
+            <quantity>3.4846256216291938</quantity>
+            <purchaseDate>2022-11-25</purchaseDate>
+            <purchasePrice>995.0000000000001</purchasePrice>
+            <commission>5.0</commission>
+        </stock>
+    </portfolio>
+    <transaction>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>0.22136425973406473</stockQuantity>
+            <date>2022-03-01</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.045685279187817</stockQuantity>
+            <date>2022-03-31</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>0.21267530495991752</stockQuantity>
+            <date>2022-03-31</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.9765484064942878</stockQuantity>
+            <date>2022-04-30</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>0.25350597915617507</stockQuantity>
+            <date>2022-04-30</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.8522039757994815</stockQuantity>
+            <date>2022-05-30</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>0.2604372188461842</stockQuantity>
+            <date>2022-05-30</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.814298912657238</stockQuantity>
+            <date>2022-06-29</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>0.2645726528085233</stockQuantity>
+            <date>2022-06-29</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.027754415475189</stockQuantity>
+            <date>2022-07-29</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>5.092592592592593</stockQuantity>
+            <date>2022-07-29</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.0389072212416544</stockQuantity>
+            <date>2022-08-28</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>5.383360522022838</stockQuantity>
+            <date>2022-08-28</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>3.2528339083292264</stockQuantity>
+            <date>2022-09-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>6.055663166479763</stockQuantity>
+            <date>2022-09-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.938339393039994</stockQuantity>
+            <date>2022-10-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>6.414686825053996</stockQuantity>
+            <date>2022-10-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>IBM</stockSymbol>
+            <stockQuantity>2.708988917772609</stockQuantity>
+            <date>2022-11-26</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="strategyFutureEnddate">
+            <type>buy</type>
+            <stockSymbol>GOOG</stockSymbol>
+            <stockQuantity>6.171428571428572</stockQuantity>
+            <date>2022-11-26</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>5.441321229355791</stockQuantity>
+            <date>2022-11-25</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.538784365330583</stockQuantity>
+            <date>2022-11-26</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>5.439536409359283</stockQuantity>
+            <date>2022-11-26</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.538784365330583</stockQuantity>
+            <date>2022-11-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>5.439536409359283</stockQuantity>
+            <date>2022-11-27</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>3.538784365330583</stockQuantity>
+            <date>2022-11-28</date>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <type>buy</type>
+            <stockSymbol>TSLA</stockSymbol>
+            <stockQuantity>5.439536409359283</stockQuantity>
+            <date>2022-11-28</date>
+            <commission>5.0</commission>
+        </portfolio>
+    </transaction>
+    <strategy>
+        <portfolio name="strategyFutureEnddate">
+            <amount>990.0</amount>
+            <stockMap>
+                <stock>
+                    <symbol>IBM</symbol>
+                    <weight>40.0</weight>
+                </stock>
+                <stock>
+                    <symbol>GOOG</symbol>
+                    <weight>60.0</weight>
+                </stock>
+            </stockMap>
+            <startDate>2022-12-28</startDate>
+            <endDate>2023-03-01</endDate>
+            <frequency>30</frequency>
+            <isOnGoing>false</isOnGoing>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="ongoing">
+            <amount>1990.0</amount>
+            <stockMap>
+                <stock>
+                    <symbol>NFLX</symbol>
+                    <weight>50.0</weight>
+                </stock>
+                <stock>
+                    <symbol>TSLA</symbol>
+                    <weight>50.0</weight>
+                </stock>
+            </stockMap>
+            <startDate>2022-11-29</startDate>
+            <endDate>2032-11-29</endDate>
+            <frequency>1</frequency>
+            <isOnGoing>true</isOnGoing>
+            <commission>5.0</commission>
+        </portfolio>
+        <portfolio name="futureonetime">
+            <amount>1490.0</amount>
+            <stockMap>
+                <stock>
+                    <symbol>T</symbol>
+                    <weight>40.0</weight>
+                </stock>
+                <stock>
+                    <symbol>F</symbol>
+                    <weight>60.0</weight>
+                </stock>
+            </stockMap>
+            <startDate>2022-11-30</startDate>
+            <endDate>2022-11-30</endDate>
+            <frequency>1</frequency>
+            <isOnGoing>false</isOnGoing>
+            <commission>5.0</commission>
+        </portfolio>
+    </strategy>
+</user>

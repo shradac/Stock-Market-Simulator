@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user name="Shrada" portfolioType="flexible">
+    <portfolio name="Education">
+        <stock>
+            <symbol>IBM</symbol>
+            <name>International Business Machines Corp.</name>
+            <quantity>10.0</quantity>
+            <purchaseDate>2019-01-10</purchaseDate>
+            <purchasePrice>1217.9</purchasePrice>
+            <commission>5.5</commission>
+        </stock>
+    </portfolio>
+    <transaction>
+        <portfolio name="Education">
+            <type>buy</type>
+            <stockSymbol>MSFT</stockSymbol>
+            <stockQuantity>11.0</stockQuantity>
+            <date>2020-05-05</date>
+            <commission>3.4</commission>
+        </portfolio>
+        <portfolio name="Education">
+            <type>buy</type>
+            <stockSymbol>NFLX</stockSymbol>
+            <stockQuantity>12.0</stockQuantity>
+            <date>2020-06-01</date>
+            <commission>10.0</commission>
+        </portfolio>
+        <portfolio name="Education">
+            <type>buy</type>
+            <stockSymbol>AAPL</stockSymbol>
+            <stockQuantity>5.0</stockQuantity>
+            <date>2021-01-01</date>
+            <commission>12.7</commission>
+        </portfolio>
+    </transaction>
+</user>
